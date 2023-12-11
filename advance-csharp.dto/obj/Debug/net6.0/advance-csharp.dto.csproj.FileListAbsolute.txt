@@ -1,0 +1,11 @@
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\bin\Debug\net6.0\advance-csharp.dto.deps.json
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\bin\Debug\net6.0\advance-csharp.dto.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\bin\Debug\net6.0\advance-csharp.dto.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\advance-csharp.dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\advance-csharp.dto.AssemblyInfoInputs.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\advance-csharp.dto.AssemblyInfo.cs
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\advance-csharp.dto.csproj.CoreCompileInputs.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\advance-csharp.dto.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\refint\advance-csharp.dto.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\advance-csharp.dto.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.dto\obj\Debug\net6.0\ref\advance-csharp.dto.dll

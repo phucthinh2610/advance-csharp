@@ -1,0 +1,17 @@
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\bin\Debug\net6.0\advance-csharp.service.deps.json
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\bin\Debug\net6.0\advance-csharp.service.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\bin\Debug\net6.0\advance-csharp.service.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\bin\Debug\net6.0\advance-csharp-database.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\bin\Debug\net6.0\advance-csharp.dto.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\bin\Debug\net6.0\advance-csharp-database.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\bin\Debug\net6.0\advance-csharp.dto.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.csproj.AssemblyReference.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.AssemblyInfoInputs.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.AssemblyInfo.cs
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.csproj.CoreCompileInputs.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.csproj.CopyComplete
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\refint\advance-csharp.service.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\advance-csharp.service.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp.service\obj\Debug\net6.0\ref\advance-csharp.service.dll

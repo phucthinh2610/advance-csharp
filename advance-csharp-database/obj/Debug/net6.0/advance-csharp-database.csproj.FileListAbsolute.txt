@@ -1,0 +1,14 @@
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\bin\Debug\net6.0\advance-csharp-database.deps.json
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\bin\Debug\net6.0\advance-csharp-database.runtimeconfig.json
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\bin\Debug\net6.0\advance-csharp-database.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\bin\Debug\net6.0\advance-csharp-database.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.csproj.AssemblyReference.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.AssemblyInfoInputs.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.AssemblyInfo.cs
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.csproj.CoreCompileInputs.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\refint\advance-csharp-database.dll
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.pdb
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\advance-csharp-database.genruntimeconfig.cache
+D:\BTVN\csharp_basic\csharp_basic\advance\advance-csharp-database\obj\Debug\net6.0\ref\advance-csharp-database.dll
