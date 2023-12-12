@@ -50,10 +50,7 @@
         /// </summary>
         public bool IsDelete { get; set; }
 
-        /// <summary>
-        /// Token
-        /// </summary>
-
+        
         /// <summary>
         /// Created At UtcNow
         /// </summary>

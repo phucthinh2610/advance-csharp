@@ -47,11 +47,6 @@ namespace advance_csharp.service.Interface
         /// <returns></returns>
         Task<UserSearchResponse> SearchUser(UserSearchRequest request);
 
-        /*/// <summary>
-        /// GenerateToken
-        /// </summary>
-        /// <param name="request"></param>
-        /// <returns></returns>
-        Task<UserGenerateTokenResponse> GenerateToken(UserGenerateTokenRequest request);*/
+       
     }
 }
